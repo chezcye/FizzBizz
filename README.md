@@ -3,6 +3,8 @@ FizzBuzz is one of the most commonly used interview questions for applicants to 
 
 **Features:** Here is a screenshot showing the output from running the code in this repository. It illustrates printing **"Fizz"** for a multiple of 3, **"Buzz"** for a multiple of 5, and **"FizzBuzz"** for both a multiple of 3 and 5. You can view the full code and explore the functionality in detail within the repository.
 
+<img />
+
 **Technologies:** 
 + PHP Loops
 + Codecademy Text Editor
