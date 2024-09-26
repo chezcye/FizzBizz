@@ -6,7 +6,7 @@ FizzBuzz is a program designed to print the numbers from 1 to 100 (inclusive), e
 
 **Features:** Here is a screenshot showing the output from running the code in this repository. It illustrates printing **"Fizz"** for a multiple of 3, **"Buzz"** for a multiple of 5, and **"FizzBuzz"** for both a multiple of 3 and 5. You can view the full code and explore the functionality in detail within the repository.
 
-![FizzBuzz1](https://github.com/user-attachments/assets/686b2cd1-44c5-4aa2-938e-dc14be8d55e0")
+![FizzBuzz1](https://github.com/user-attachments/assets/686b2cd1-44c5-4aa2-938e-dc14be8d55e0)
 
 **Usage** FizzBuzz is a program widely used as an interview question for applicants to programming positions. 
 
