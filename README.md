@@ -1,7 +1,7 @@
 # FizzBizz
 FizzBuzz is one of the most commonly used interview questions for applicants to programming positions. Each interviewer has their variant, but the prompt is usually something like
 
-**Features:** Here is a screenshot when the code run.
+**Features:** Here is a screenshot showing the output from running the code in this repository. It illustrates printing "Fizz" for a multiple of 3, "Buzz" for a multiple of 5, and "FizzBuzz" for both a multiple of 3 and 5. You can view the full code and explore the functionality in detail within the repository.
 
 **Technologies:** 
 + PHP Loops
