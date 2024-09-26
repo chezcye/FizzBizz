@@ -1,12 +1,14 @@
 # FizzBizz
-FizzBuzz is one of the most commonly used interview questions for applicants to programming positions. Each interviewer has their variant, but the prompt is usually something like
+FizzBuzz is a program designed to print the numbers from 1 to 100 (inclusive), except for these cases:
+- If a number is a multiple of 3, write "Fizz".
+- If a number is a multiple of 5, write "Buzz".
+- If a number is a multiple of both 3 and 5, write "FizzBuzz"
 
 **Features:** Here is a screenshot showing the output from running the code in this repository. It illustrates printing **"Fizz"** for a multiple of 3, **"Buzz"** for a multiple of 5, and **"FizzBuzz"** for both a multiple of 3 and 5. You can view the full code and explore the functionality in detail within the repository.
 
 <img />
 
-**Usage** 
-FizzBuzz is one of the most commonly used interview questions for applicants to programming positions. Each interviewer has their own variant, but the prompt is usually something like:
+**Usage** FizzBuzz is a program widely used as an interview question for applicants to programming positions. 
 
 **Technologies:** 
 + PHP Loops
